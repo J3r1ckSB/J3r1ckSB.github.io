@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Termina-Regular';
+   font-display: swap;
+   src: url('Termina-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Termina-ExtraLight';
+   font-display: swap;
+   src: url('Termina-ExtraLight/font.ttf');
+}
+@font-face {
+   font-family: 'Termina-Black';
+   font-display: swap;
+   src: url('Termina-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Termina-Medium';
+   font-display: swap;
+   src: url('Termina-Medium/font.ttf');
+}
