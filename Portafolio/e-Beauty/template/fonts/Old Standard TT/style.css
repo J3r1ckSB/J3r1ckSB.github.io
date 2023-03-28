@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'Old Standard TT';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/Jerick%20Castro/Desktop/Portafolio%202/e-Beauty/Template/fonts/Old Standard TT/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Old Standard TT';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Jerick%20Castro/Desktop/Portafolio%202/e-Beauty/Template/fonts/Old Standard TT/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Old Standard TT';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Jerick%20Castro/Desktop/Portafolio%202/e-Beauty/Template/fonts/Old Standard TT/italic.ttf') format('truetype');
+}
